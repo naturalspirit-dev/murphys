@@ -1,0 +1,22 @@
+#page {
+  width: 100%;
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg');
+  height: 500px;
+}
+h3 {
+  margin-top: 250px;
+  color: white;
+  text-align: center;
+}
+.footer-background {
+  background-color: #292929;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+#column {
+  margin-top: 150px;
+}
+#column-logo {
+  margin-top: 125px;
+}
